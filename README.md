@@ -4,29 +4,33 @@
 
 Este é o repositório do site fictício da OptimusTech, um projeto dedicado a demonstrar habilidades em desenvolvimento web. Este projeto é parte de um desafio da escola Alura, criado com o propósito de aplicar conhecimentos adquiridos. Lembre-se, a OptimusTech não é uma empresa real, mas uma criação para fins educativos.
 
-Tecnologias Utilizadas
 
-HTML: Utilizado para estruturar o conteúdo do site.
+> Tecnologias Utilizadas
 
-CSS: Utilizado para estilizar e posicionar os elementos na página.
+* HTML: Utilizado para estruturar o conteúdo do site.
 
-JavaScript/jQuery: Utilizado para interatividade, como o menu responsivo.
+* CSS: Utilizado para estilizar e posicionar os elementos na página.
 
-Programas Utilizados
+* JavaScript/jQuery: Utilizado para interatividade, como o menu responsivo.
+  
 
-Figma
+> Programas Utilizados
 
-Visual Studio Code
+* Figma
 
-Estrutura do Projeto
+* Visual Studio Code
+  
 
-index.html: Página principal do site.
+> Estrutura do Projeto
 
-css: Contém os arquivos CSS do projeto, incluindo reset.css para normalizar estilos entre navegadores e style.css para estilos específicos do site.
+* index.html: Página principal do site.
 
-img: Armazena imagens utilizadas no site.
+* css: Contém os arquivos CSS do projeto, incluindo reset.css para normalizar estilos entre navegadores e style.css para estilos específicos do site.
 
-Personalização
+* img: Armazena imagens utilizadas no site.
+  
+
+> Personalização
 
 O projeto utiliza variáveis CSS para facilitar a personalização. As variáveis estão organizadas por seção no arquivo style.css, permitindo ajustes rápidos nas cores, tamanhos de fonte, etc.
 
@@ -38,4 +42,4 @@ Border = #8E2424 , #EAECF0 , #D0D5DD
 
 Font = 'Inter', sans-serif
 
-Font-weight = 400 , 500 , 600
+Font-weight = 400 , 500 , 600, 700
