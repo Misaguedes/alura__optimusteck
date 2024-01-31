@@ -14,7 +14,7 @@ JavaScript/jQuery: Utilizado para interatividade, como o menu responsivo.
 
 Programas Utilizados
 
-Figma ( https://empresas.alura.com.br/e3t/Ctc/I8+113/d2z6gD04/VWz0QQ37BJFYW79Y6l281wYljVLsY3L581l_fN412xbF3lYMRW8wLKSR6lZ3mYW2wf_zT2FKgDQV-GQp06h5TTcVPZfDt5dpxzRW3xSyhj3sKRwfW6y_sF87zKrmqW6ZbLTq6F62S6W3nvKQS5W_7HhW6Z62ny2JzgS7VDCbvc5XpmRGW9bRm0184L-myW7HrZss78l-qTW1rpYV616n0fCW6VsjkW7FC0m-N83K_ccdxc_SW432Y7-277zGPW7y-FS_2yK4n5W2PWBWd3ds4WFW6W3W2C75ZQZqW99bJxN4qkFN2W5dLcGd674YFDW60zM892mTX7CW8y9Yhw5smmxrW36TgHW1L3Jf6W1PYRTf2NlvBhW4kt4tZ98hyXMW889jk73_lYpjW2l7G-b1RTZ6ZW7_qSZh1HDbTZf5RTPBz04 )
+Figma
 
 Visual Studio Code
 
